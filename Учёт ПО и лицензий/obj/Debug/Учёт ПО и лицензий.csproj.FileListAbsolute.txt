@@ -34,3 +34,31 @@ C:\Users\MISH4NIA\Desktop\Работа\Зазулин курсовая\Учёт 
 C:\Users\MISH4NIA\Desktop\Работа\Зазулин курсовая\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.exe.config
 C:\Users\MISH4NIA\Desktop\Работа\Зазулин курсовая\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.exe
 C:\Users\MISH4NIA\Desktop\Работа\Зазулин курсовая\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.pdb
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\Учёт ПО и лицензий.exe.config
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\Учёт ПО и лицензий.exe
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\Учёт ПО и лицензий.pdb
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\Google.Protobuf.dll
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\ZstdNet.dll
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\System.Memory.dll
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\System.Buffers.dll
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\bin\Debug\MySql.Data.xml
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.csproj.AssemblyReference.cache
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.csproj.SuggestedBindingRedirects.cache
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.exe.config
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт_состояния_комп.техники.Form1.resources
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт_состояния_комп.техники.Form2.resources
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт_состояния_комп.техники.Form3.resources
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт_состояния_комп.техники.Form4.resources
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт_состояния_комп.техники.Form5.resources
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт_состояния_комп.техники.Form6.resources
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт_ПО_и_лицензий.Properties.Resources.resources
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.csproj.GenerateResource.cache
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.csproj.CoreCompileInputs.cache
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.csproj.CopyComplete
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.exe
+C:\Users\kak7\Documents\GitHub\zaz_licence\Учёт ПО и лицензий\obj\Debug\Учёт ПО и лицензий.pdb

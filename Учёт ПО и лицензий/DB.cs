@@ -9,7 +9,7 @@ namespace Учёт_состояния_комп.техники
 {
     internal class DB
     {
-        MySqlConnection connection = new MySqlConnection("server=localhost;port=3306;username=root;password=root;database=учёт по и лицензий");
+        MySqlConnection connection = new MySqlConnection("server=lasttray.com;port=33306;username=user;password=0;database=main");
 
         public void openConnection()
         {

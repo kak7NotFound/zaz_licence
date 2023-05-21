@@ -16,6 +16,7 @@ namespace Учёт_состояния_комп.техники
         public Form4()
         {
             InitializeComponent();
+            button3_Click(null, null);
         }
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
@@ -31,7 +32,7 @@ namespace Учёт_состояния_комп.техники
             form3.Show();
             this.Close();
         }
-        string connStr = "server=localhost;port=3306;database=учёт по и лицензий;username=root;password=root;";
+        string connStr = "server=lasttray.com;port=33306;username=user;password=0;database=main;";
         private BindingSource bindingSorce = new BindingSource();
         private void button3_Click(object sender, EventArgs e)
         {
@@ -81,7 +82,7 @@ namespace Учёт_состояния_комп.техники
         }
         private void DeleteRow(string название)
         {
-            string connStr = "server=localhost;port=3306;database=учёт по и лицензий;username=root;password=root;";
+            string connStr = "server=lasttray.com;port=33306;username=user;password=0;database=main;";
             using (MySqlConnection con = new MySqlConnection(connStr))
             {
                 try
